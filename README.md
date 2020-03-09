@@ -1,6 +1,8 @@
 # English-Dictionary
 An app providing definitions of given english words
 
+**Written in Python**
+
 When given a word, the program searches the dictionary for its definition.
 If the word is found, the definition is printed.
 Else the program searches for any similar words and chooses the closest one. Then it asks the user if that was the searched word.
